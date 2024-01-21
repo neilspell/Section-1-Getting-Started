@@ -1,6 +1,6 @@
 # Instructions  
 
-  Welcome to our first Replit session.
+  Welcome to our first Python session.
   Today we are going to explore the
   ```print()``` function a little more using Chapter 1 from our book.
 
