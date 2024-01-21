@@ -5,7 +5,7 @@ The best way to learn how to use ``turtle`` is to experiment. The following exer
 
 
   ## Tasks
-Before running any of the above blocks of code, you will need to add the line ``from turtle import *`` before the turtle commands in ``main.py``.
+Before running any of the blocks of code below, you will need to add the line ``from turtle import *`` before the turtle commands in ``main.py``.
 
 1. Predict and match which block of code matches with each shape A, B, C or D.
 
