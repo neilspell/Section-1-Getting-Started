@@ -6,6 +6,7 @@ Using what we have learned in the previous 2 pages, write some Python programs t
 ![image](image_11.png)
 
 The table below might help you:
+
 ![image](image_12.png)
 
 ## Part B
