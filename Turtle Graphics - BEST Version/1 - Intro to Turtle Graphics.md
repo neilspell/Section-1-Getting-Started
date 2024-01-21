@@ -94,4 +94,5 @@ turtle.clearscreen()
 ## Predict & Match
 1. Predict and match which block of code matches with each shape A, B, C or D.
 2. Compare your predictions with your classmates.
+
 ![image](image_13.png)
