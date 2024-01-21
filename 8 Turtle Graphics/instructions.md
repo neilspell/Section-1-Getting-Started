@@ -28,10 +28,12 @@ forward(100)
 4. Rearrange lines 8 - 14 into different orders and see if you can explain the change in output. You can delete some lines if you wish.
 5. Experiment with the numbers used on lines 8 – 14 until you understand what they mean. For example, you could change 100 to 50 on line 8, or change 90 to 45 on line 13.
 6. Modify the program so that it displays the following image
+
 ![image](image.png)
 
 ## Common movement commands
-Some more common movement commands supported by the ``turtle`` library are oulined below
+Some more common movement commands supported by the ``turtle`` library are oulined below:
+
 ![image](image_2.png)
 
 ## For more Turtle Movements
